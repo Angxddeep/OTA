@@ -7,7 +7,7 @@
 - Added soundtrigger HAL
 - Moved to AOSP WFD service
 - Remove custom Kernel Clang Flags now we use whatever AOSP decides
-- Switched main partitions to EROFS filesystem( This requires flashing new boot and vendor_boot images and then sideloading new Roms)
+- Switched main partitions to EROFS filesystem(‼️ This requires flashing new boot and vendor_boot images first only then you can sideload new Rom)
 - Pinned Launcher and WebView in memory for faster app launching
 - Switched to AOSP offline charging daemon
 - Enabled support for all filesystem types on USB-OTG drives
