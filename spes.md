@@ -15,7 +15,7 @@
 - Disabled Skia tracing by default
 - Disabled EGL image tracking by default
 - Downscale task snapshots to 70% to avoid memory pressure
-- Synced kernel sources to 4.19.325
+- Synced kernel sources to **4.19.325**
 
 # 01-July-2026
 
