@@ -1,7 +1,6 @@
 # 10-July-2026
 
 - Battery cycle count no longer shows unavailable
-- Enable 60 fps video record suporte in Aperture
 - Move region variant props selection to SKU props
 - Dropped useless Xiaomi displayfeature
 - Added soundtrigger HAL
