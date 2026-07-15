@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1782872277",
-      "filename": "PixelOS_spes-16.2-20260701-0222.zip",
-      "id": "E20069A80BF28641B3A7A4E91CCB4FD41A1CCC0442556EECB029F7AAA9788460",
+      "datetime": "1784120649",
+      "filename": "PixelOS_spes-16.2-20260715-1309.zip",
+      "id": "CD07920F9E5D87D643B331683B7068BEC05D449B99002523E84F17BBE640E780",
       "romtype": "OFFICIAL",
-      "size": 2264758953,
-      "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/Spes/PixelOS_spes-16.2-20260701-0222.zip",
+      "size": 2592147387,
+      "url": "https://sourceforge.net/projects/xiaomi-spes-devs/files/PIXELOS/20260715-1309/PixelOS_spes-16.2-20260715-1309.zip/download",
       "version": 16.2
     }
   ]
