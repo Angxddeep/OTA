@@ -1,3 +1,10 @@
+# 17-July-2026
+
+- Remove multiple redundant overlays
+- Remvoed unused f2player camera binary
+- Removed multiple unused Camera binaries
+- Switched to new AIDL IR service
+
 # 10-July-2026
 
 - Battery cycle count no longer shows unavailable
