@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1788345527,
+    "files": [
+      {
+        "filename": "PixelOS_xaga-17.0-20260902-1042.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 37,
+        "sha256": "42ef2b589a736bb42598850e2522dc9dedbc6e1172e896828d67f027ae5bc529",
+        "size": 3103942429,
+        "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/PixelOS_xaga-17.0-20260902-1042.zip",
+        "ota_property_files": "payload_metadata.bin:4775:129883,payload.bin:4775:3103934531,payload_properties.txt:3103939364:156,apex_info.pb:2283:1487,care_map.pb:3817:911,metadata:69:677,metadata.pb:814:1421"
+      }
+    ],
+    "type": "ci",
+    "version": "17.0"
+  }
+]
